@@ -47,7 +47,7 @@ p.special{
   padding-bottom: 10px;
 }
 /* for the paragraph */
-p{
+p.normal{
   font-size: 15px;
   font-weight: 400;
   color:  hsl(212, 45%, 89%)
